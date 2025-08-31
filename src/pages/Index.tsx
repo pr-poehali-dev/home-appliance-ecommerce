@@ -85,7 +85,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <h1 className="text-2xl font-heading font-bold text-tech-dark">TECH STORE</h1>
+              <h1 className="text-2xl font-heading font-bold text-tech-dark">ТехноУют05</h1>
             </div>
             <nav className="hidden md:flex space-x-8">
               <a href="#catalog" className="text-tech-gray hover:text-primary transition-colors">Каталог</a>
@@ -328,7 +328,7 @@ const Index = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div>
-              <h3 className="text-xl font-heading font-bold mb-4">TECH STORE</h3>
+              <h3 className="text-xl font-heading font-bold mb-4">ТехноУют05</h3>
               <p className="text-gray-300">Ваш надежный партнер в мире технологий</p>
             </div>
             <div>
@@ -360,7 +360,7 @@ const Index = () => {
           </div>
           <Separator className="my-8 bg-gray-700" />
           <div className="text-center text-gray-400">
-            <p>&copy; 2024 TECH STORE. Все права защищены.</p>
+            <p>&copy; 2024 ТехноУют05. Все права защищены.</p>
           </div>
         </div>
       </footer>
